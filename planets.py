@@ -12,4 +12,4 @@ def weight_on_planets():
     
    
 if __name__ == '__main__':
-   weight_on_planets()
+    weight_on_planets()
